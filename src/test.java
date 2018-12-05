@@ -66,7 +66,18 @@ public class test {
         }
         System.out.println();
 
+        int[] arrr = {6, 3, 6, 1, 8, 6, 3, 4, 1};
+        for (int k = 1; k < arrr.length; k++) {
+            int nev = arrr[k];
+            int index = k - 1;
+            while (index >= 0 && arrr[index] > nev) {
+                arrr[index + 1] = arrr[index];
+                index--;
 
-
+            }
+            arrr[index + 1] = nev;
+        }
+        System.out.println(Arrays.toString(arrr));
     }
+
 }
