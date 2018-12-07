@@ -78,6 +78,13 @@ public class test {
             arrr[index + 1] = nev;
         }
         System.out.println(Arrays.toString(arrr));
+
+        for (int k = 0; k < arr.length / 2; k++) {
+            int tmp = arr[k];
+            arr[k] = arr[arr.length - k - 1];
+            arr[arr.length - k - 1] = tmp;
+        }
+        System.out.println(Arrays.toString(arr));
     }
 
 }

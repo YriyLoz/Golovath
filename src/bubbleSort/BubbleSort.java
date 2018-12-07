@@ -8,9 +8,9 @@ public class BubbleSort {
 
         for (int barrier = arr.length - 1; barrier >= 0; barrier--) {
 
-            for (int index = 0; index > barrier; index++) {
+            for (int index = 0; index < barrier; index++) {
 
-                if (arr[index] > arr[index + 1]) {
+                if (arr[index] < arr[index + 1]) {
 
                     int tmp = arr[index];
 
