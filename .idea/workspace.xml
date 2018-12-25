@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5230dfc1-057c-40ae-9a15-f00d80b52e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SortingTwoArrays/SortingTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingTwoArrays/StartSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Golovath/bubbleSort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Golovath/bubbleSort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Golovath/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Golovath/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubbleSort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/insertionSort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insertionSort/InsertionSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,29 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/selectionSort/SelectionSort.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SortingTwoArrays/SortingTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="425">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/insertionSort/InsertionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/SortingTwoArrays/StartSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/recursion/Recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -65,16 +55,17 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/selectionSort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/cycles/insertionSort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/insertionSort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/recursion/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/insertionSort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTwoArrays/StartSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTwoArrays/SortingTwoArrays.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="302" />
-    <option name="y" value="10" />
-    <option name="width" value="873" />
-    <option name="height" value="1040" />
+    <option name="x" value="-18" />
+    <option name="width" value="983" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -82,6 +73,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,16 +87,20 @@
               <item name="Golovath" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Golovath" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Golovath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SortingTwoArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544181202538" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545749685886" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -119,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
+  <component name="RunManager" selected="Application.StartSort">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cycles.insertionSort.InsertionSort" />
       <module name="Golovath" />
@@ -159,6 +156,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StartSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingTwoArrays.StartSort" />
+      <module name="Golovath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingTwoArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cycles.insertionSort.bubbleSort.TestBubbleSort" />
       <module name="Golovath" />
@@ -172,20 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Golovath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartSort" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.TestBubbleSort" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544027657851</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SelectionSort">
+      <created>1544181257174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544181257174</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-14" y="0" width="786" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="1.0" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.45867768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,7 +275,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32378224" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3937677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,6 +342,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Recurcion.java" />
+    <entry file="file://$PROJECT_DIR$/src/bubbleSort/TestBubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bubbleSort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -339,10 +357,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bubbleSort/TestBubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/insertionSort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -353,24 +378,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/Recurcion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/insertionSort/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/SortingTwoArrays/StartSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/Recursion.java">
+    <entry file="file://$PROJECT_DIR$/src/SortingTwoArrays/SortingTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="425">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
